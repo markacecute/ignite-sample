@@ -1,0 +1,114 @@
+CRITICAL - 2023-08-01 01:03:14 --> Undefined variable: mama
+in APPPATH\Controllers\Home.php on line 47.
+ 1 APPPATH\Controllers\Home.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: mama', 'C:\\xampp\\htdocs\\mark-code\\app\\Controllers\\Home.php', 47, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('94')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:03:44 --> Undefined variable: mama
+in APPPATH\Controllers\Home.php on line 47.
+ 1 APPPATH\Controllers\Home.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: mama', 'C:\\xampp\\htdocs\\mark-code\\app\\Controllers\\Home.php', 47, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('101')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:04:05 --> Undefined variable: mama
+in APPPATH\Controllers\Home.php on line 47.
+ 1 APPPATH\Controllers\Home.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: mama', 'C:\\xampp\\htdocs\\mark-code\\app\\Controllers\\Home.php', 47, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('96')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:08:39 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1693.
+ 1 SYSTEMPATH\BaseModel.php(1693): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Home.php(46): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('92')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:09:41 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1693.
+ 1 SYSTEMPATH\BaseModel.php(1693): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Home.php(46): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('92')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:10:11 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1693.
+ 1 SYSTEMPATH\BaseModel.php(1693): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('92')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:10:34 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1693.
+ 1 SYSTEMPATH\BaseModel.php(1693): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('92')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+CRITICAL - 2023-08-01 01:10:58 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1693.
+ 1 SYSTEMPATH\BaseModel.php(1693): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('94')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
+ERROR - 2023-08-01 01:32:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = '92'' at line 2 in C:\xampp\htdocs\mark-code\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\mark-code\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `hotdog`...', 0)
+#1 C:\xampp\htdocs\mark-code\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `hotdog`...')
+#2 C:\xampp\htdocs\mark-code\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `hotdog`...')
+#3 C:\xampp\htdocs\mark-code\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `hotdog`...', Array, false)
+#4 C:\xampp\htdocs\mark-code\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\mark-code\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(NULL, Array)
+#6 C:\xampp\htdocs\mark-code\system\Model.php(756): CodeIgniter\BaseModel->update(NULL, Array)
+#7 C:\xampp\htdocs\mark-code\app\Controllers\Home.php(46): CodeIgniter\Model->update()
+#8 C:\xampp\htdocs\mark-code\system\CodeIgniter.php(932): App\Controllers\Home->update('92')
+#9 C:\xampp\htdocs\mark-code\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\mark-code\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\mark-code\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\mark-code\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-08-01 01:32:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = '92'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `hotdog` SET `class` = 
+WHERE `id` = \'92\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `hotdog` SET `class` = 
+WHERE `id` = \'92\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `hotdog` SET `class` = 
+WHERE `id` = \'92\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `hotdog` SET `class` = 
+WHERE `id` = :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate(null, [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update(null, [...])
+ 8 APPPATH\Controllers\Home.php(46): CodeIgniter\Model->update()
+ 9 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('92')
+10 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\mark-code\\public\\index.php')
